@@ -17,7 +17,6 @@ class HourlyForecastItem extends StatelessWidget {
                 shape: RoundedRectangleBorder(
                   borderRadius: BorderRadius.circular(15),
                 ),
-                color: const Color.fromARGB(255, 72, 80, 84),
                 child: Container( 
                   width: 100,
                   padding: const EdgeInsets.all(8.0),
